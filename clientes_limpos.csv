@@ -1,0 +1,13 @@
+nome,email,telefone,data_cadastro,estado,valor_gasto
+Ana Paula Souza,ana.souza@gmail.com,(11) 98765-4321,2025-03-15,SP,1250.0
+Bruno Lima,bruno.lima@hotmail.com,(11) 98765-4000,2025-04-02,SP,890.5
+Carla de Oliveira,,(21) 99888-7766,2025-05-02,RJ,320.9
+Diego Martins,diego.m@yahoo.com.br,(31) 9988-7766,2025-06-10,MG,75.0
+Fernanda Rocha,fernanda.rocha@gmail.com,(41) 3322-1100,,PR,
+Gabriel Alves,gabriel.alves@outlook.com,(11) 91234-5678,2025-07-01,SP,2100.75
+Helena Castro,,(21) 98877-6655,2025-08-19,RJ,450.0
+Igor Nunes,igor.nunes@gmail.com,,2025-09-01,,99.9
+Juliana dos Santos,juliana.santos@gmail.com,(31) 97766-5544,,MG,1500.0
+Kauã Ribeiro,kaua.ribeiro@gmail.com,(11) 95555-4444,2025-10-20,PR,670.0
+Larissa Mendes,,(11) 94444-3333,2025-11-05,SP,
+Marcos Pereira,marcos.pereira@empresa.com.br,(21) 3344-5566,2025-11-10,RJ,3400.0
